@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@contentful/app-sdk": "^4.29.7"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8"
+  }
+}
